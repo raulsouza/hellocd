@@ -12,7 +12,7 @@ public class HellocdApplication {
 
 	@RequestMapping("/")
 	String home() {
-		return "Hello World!";
+		return "Hello World! in the WEB APP git Branch";
 	}
 
 	public static void main(String[] args) {
